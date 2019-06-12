@@ -1,0 +1,23 @@
+{
+  "name": "nucont_test",
+  "version": "1.0.0",
+  "description": "Nucont Test",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive --watch",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tales-info/nucont-test.git"
+  },
+  "author": "Tales Moreira <tales.info@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tales-info/nucont-test/issues"
+  },
+  "homepage": "https://github.com/tales-info/nucont-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

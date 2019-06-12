@@ -1,2 +1,10 @@
-# nucont-test
-Nucont Test
+# Nucont Test
+
+Comandos
+
+`npm install`
+
+`npm start`
+
+`npm test`
+
